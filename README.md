@@ -33,7 +33,7 @@ The site contains the following sections:
 ---
 
 ## 🔗 Preview
-![preview](https://dhm-tech.github.io/personal-website/)
+https://dhm-tech.github.io/personal-website/
 
 ---
 
